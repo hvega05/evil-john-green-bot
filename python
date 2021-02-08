@@ -7,7 +7,7 @@ import time
 import random
 
 def mood(moodLvl,moodType):
-  #insert code hwere to craete mood
+  #insert code here to create mood
   myMood = ""
   return myMood
 
